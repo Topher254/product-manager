@@ -2,6 +2,9 @@
 
 ## HOsted Url
 
+## Github LInk
+https://github.com/Topher254/product-manager.git 
+
 A modern, responsive product management application built with Vue.js 3, featuring authentication, CRUD operations, and a beautiful user interface.
 
 
@@ -82,7 +85,7 @@ A modern, responsive product management application built with Vue.js 3, featuri
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Topher254/product-manager.git
 cd product-management
 ```
 
@@ -171,44 +174,3 @@ Password: 0lelplR
 - **Toast Notifications** for user actions
 - **Hover Effects** and smooth transitions
 
-##  Design System
-
-### Color Palette
-- **Primary**: `#000080` (Navy Blue)
-- **Background**: `#f8fafc` (Slate 50)
-- **Text**: `#1e293b` (Slate 800)
-- **Success**: `#16a34a` (Green 600)
-- **Error**: `#dc2626` (Red 600)
-
-### Typography
-- **Headings**: Inter font family, semi-bold weights
-- **Body**: System font stack for optimal readability
-- **Code**: Monospace for technical text
-
-##  Development
-
-### Code Style
-- **Composition API** preferred over Options API
-- **TypeScript-ready** structure
-- **Component-based architecture**
-- **Clean separation of concerns**
-
-
-
-##  Responsive Breakpoints
-
-- **Mobile**: < 768px
-- **Tablet**: 768px - 1024px
-- **Desktop**: > 1024px
-
-## 🚀 Deployment
-
-### Build for Production
-```bash
-npm run build
-```
-
-### Preview Production Build
-```bash
-npm run preview
-```

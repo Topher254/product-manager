@@ -1,9 +1,13 @@
 #  Product Management Suite by Sarota Raphael
 
-## HOsted Url
+## Hosted URL
+The project is live at:
+https://topher254.github.io/product-manager/
 
-## Github LInk
-https://github.com/Topher254/product-manager.git 
+## GitHub Repository
+Source code is available at:
+https://github.com/Topher254/product-manager
+
 
 A modern, responsive product management application built with Vue.js 3, featuring authentication, CRUD operations, and a beautiful user interface.
 
